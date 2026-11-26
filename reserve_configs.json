@@ -1,0 +1,917 @@
+[
+ {
+  "rule_value": [
+   "周一"
+  ],
+  "items": [
+   {
+    "id": "979f9gik",
+    "name": "1号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "lgen7tj5",
+    "name": "1号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "ar9rhuqu",
+    "name": "1号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "13ip4nin",
+    "name": "2号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "csq0979k",
+    "name": "2号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "y5utb0tt",
+    "name": "2号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "xap1axxl",
+    "name": "3号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "9m4uvc5t",
+    "name": "3号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "9s4u18vr",
+    "name": "3号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "eoctl5rs",
+    "name": "4号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "ji4f81ho",
+    "name": "4号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "xye2dslj",
+    "name": "4号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "00hrbk3i",
+    "name": "5号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "3yozmyo7",
+    "name": "5号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "5lmya2r3",
+    "name": "5号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "o057ucdl",
+    "name": "6号场18:30~19:30",
+    "count": 0
+   },
+   {
+    "id": "0cf73rmp",
+    "name": "6号场19:30~20:30",
+    "count": 0
+   },
+   {
+    "id": "92y212wm",
+    "name": "6号场20:30~21:30",
+    "count": 0
+   },
+   {
+    "id": "sus1r03c",
+    "name": "7号场18:30~19:30",
+    "count": 0
+   },
+   {
+    "id": "zqw22cps",
+    "name": "7号场19:30~20:30",
+    "count": 0
+   },
+   {
+    "id": "g5f5qx3p",
+    "name": "7号场20:30~21:30",
+    "count": 0
+   },
+   {
+    "id": "mdf6blcl",
+    "name": "8号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "l10w01c7",
+    "name": "8号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "9amf4mxj",
+    "name": "8号场20:30~21:30",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "rule_value": [
+   "周二"
+  ],
+  "items": [
+   {
+    "id": "tbk7r50c",
+    "name": "1号场18:30~19:30",
+    "count": 0
+   },
+   {
+    "id": "mmjll0hu",
+    "name": "1号场19:30~20:30",
+    "count": 0
+   },
+   {
+    "id": "ugbnrowr",
+    "name": "1号场20:30~21:30",
+    "count": 0
+   },
+   {
+    "id": "60dzztpk",
+    "name": "2号场18:30~19:30",
+    "count": 0
+   },
+   {
+    "id": "7n0nenq6",
+    "name": "2号场19:30~20:30",
+    "count": 0
+   },
+   {
+    "id": "jo8yokyr",
+    "name": "2号场20:30~21:30",
+    "count": 0
+   },
+   {
+    "id": "o644dvtq",
+    "name": "3号场18:30~19:30",
+    "count": 0
+   },
+   {
+    "id": "7zw6gmf3",
+    "name": "3号场19:30~20:30",
+    "count": 0
+   },
+   {
+    "id": "ncx2z1ts",
+    "name": "3号场20:30~21:30",
+    "count": 0
+   },
+   {
+    "id": "6hdwp0bl",
+    "name": "4号场18:30~19:30",
+    "count": 0
+   },
+   {
+    "id": "evac3atj",
+    "name": "4号场19:30~20:30",
+    "count": 0
+   },
+   {
+    "id": "jd8tl92a",
+    "name": "4号场20:30~21:30",
+    "count": 0
+   },
+   {
+    "id": "0cev4qlc",
+    "name": "5号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "4dtsfv4v",
+    "name": "5号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "itlayntn",
+    "name": "5号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "63zw5gwh",
+    "name": "6号场18:30~19:30",
+    "count": 1,
+    "b_close": false
+   },
+   {
+    "id": "2xutx17m",
+    "name": "6号场19:30~20:30",
+    "count": 1,
+    "b_close": false
+   },
+   {
+    "id": "6wajox5l",
+    "name": "6号场20:30~21:30",
+    "count": 1,
+    "b_close": false
+   },
+   {
+    "id": "z04tvge2",
+    "name": "7号场18:30~19:30",
+    "count": 1,
+    "b_close": false
+   },
+   {
+    "id": "9u5jq4xk",
+    "name": "7号场19:30~20:30",
+    "count": 1,
+    "b_close": false
+   },
+   {
+    "id": "dm9tbola",
+    "name": "7号场20:30~21:30",
+    "count": 1,
+    "b_close": false
+   },
+   {
+    "id": "94irlrqk",
+    "name": "8号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "dpiqodoa",
+    "name": "8号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "779wjwc6",
+    "name": "8号场20:30~21:30",
+    "count": 1,
+    "b_time": ""
+   }
+  ]
+ },
+ {
+  "rule_value": [
+   "周三"
+  ],
+  "items": [
+   {
+    "id": "v0soqr7v",
+    "name": "1号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "3xtm8ufh",
+    "name": "1号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "en4wij2a",
+    "name": "1号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "z4ns5q67",
+    "name": "2号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "05ek4nwa",
+    "name": "2号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "rka1ugcj",
+    "name": "2号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "mw2ppv0a",
+    "name": "3号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "lv4bj1uc",
+    "name": "3号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "k25wx43w",
+    "name": "3号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "awyodhje",
+    "name": "4号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "gsnhpm72",
+    "name": "4号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "0mlibh6k",
+    "name": "4号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "julr5bvr",
+    "name": "5号场18:30~19:30",
+    "count": 1,
+    "b_close": false
+   },
+   {
+    "id": "26g5zyg7",
+    "name": "5号场19:30~20:30",
+    "count": 1,
+    "b_close": false
+   },
+   {
+    "id": "fwixdjxg",
+    "name": "5号场20:30~21:30",
+    "count": 1,
+    "b_close": false
+   },
+   {
+    "id": "qoj5vsuq",
+    "name": "6号场18:30~19:30",
+    "count": 0,
+    "b_close": false
+   },
+   {
+    "id": "sk295d4q",
+    "name": "6号场19:30~20:30",
+    "count": 0,
+    "b_close": false
+   },
+   {
+    "id": "8ag9yh9g",
+    "name": "6号场20:30~21:30",
+    "count": 0,
+    "b_close": false
+   },
+   {
+    "id": "9d350flq",
+    "name": "7号场18:30~19:30",
+    "count": 0,
+    "b_close": false
+   },
+   {
+    "id": "xoe73qrv",
+    "name": "7号场19:30~20:30",
+    "count": 0,
+    "b_close": false
+   },
+   {
+    "id": "7rab0ow6",
+    "name": "7号场20:30~21:30",
+    "count": 0,
+    "b_close": false
+   },
+   {
+    "id": "mz21r26h",
+    "name": "8号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "syvhcu1f",
+    "name": "8号场19:30~20:30",
+    "count": 1,
+    "b_time": ""
+   },
+   {
+    "id": "58gqum5s",
+    "name": "8号场20:30~21:30",
+    "count": 2
+   }
+  ]
+ },
+ {
+  "rule_value": [
+   "周四"
+  ],
+  "items": [
+   {
+    "id": "gtdn1d9r",
+    "name": "1号场18:30~19:30",
+    "count": 0
+   },
+   {
+    "id": "afpvnqjr",
+    "name": "1号场19:30~20:30",
+    "count": 0
+   },
+   {
+    "id": "ekk0pay5",
+    "name": "1号场20:30~21:30",
+    "count": 0
+   },
+   {
+    "id": "7rl9fyqu",
+    "name": "2号场18:30~19:30",
+    "count": 0
+   },
+   {
+    "id": "qlu6pubr",
+    "name": "2号场19:30~20:30",
+    "count": 0
+   },
+   {
+    "id": "ju8dencm",
+    "name": "2号场20:30~21:30",
+    "count": 0
+   },
+   {
+    "id": "zqoeyte8",
+    "name": "3号场18:30~19:30",
+    "count": 0
+   },
+   {
+    "id": "ara35l28",
+    "name": "3号场19:30~20:30",
+    "count": 0
+   },
+   {
+    "id": "e9xt8cwn",
+    "name": "3号场20:30~21:30",
+    "count": 0
+   },
+   {
+    "id": "5p0rc1m9",
+    "name": "4号场18:30~19:30",
+    "count": 0
+   },
+   {
+    "id": "zm22eqq5",
+    "name": "4号场19:30~20:30",
+    "count": 0
+   },
+   {
+    "id": "gljaz29f",
+    "name": "4号场20:30~21:30",
+    "count": 0
+   },
+   {
+    "id": "8vutcj5f",
+    "name": "5号场18:30~19:30",
+    "count": 1,
+    "b_close": false
+   },
+   {
+    "id": "m4yu9gha",
+    "name": "5号场19:30~20:30",
+    "count": 1,
+    "b_close": false
+   },
+   {
+    "id": "qsdk1ccg",
+    "name": "5号场20:30~21:30",
+    "count": 1,
+    "b_close": false
+   },
+   {
+    "id": "qszfwksj",
+    "name": "6号场18:30~19:30",
+    "count": 1,
+    "b_close": true
+   },
+   {
+    "id": "tdiuavrp",
+    "name": "6号场19:30~20:30",
+    "count": 1,
+    "b_close": true
+   },
+   {
+    "id": "8h9qyucr",
+    "name": "6号场20:30~21:30",
+    "count": 1,
+    "b_close": true
+   },
+   {
+    "id": "25dhfe4g",
+    "name": "7号场18:30~19:30",
+    "count": 1,
+    "b_close": true
+   },
+   {
+    "id": "wrk8b5ts",
+    "name": "7号场19:30~20:30",
+    "count": 1,
+    "b_close": true
+   },
+   {
+    "id": "gwinhrva",
+    "name": "7号场20:30~21:30",
+    "count": 1,
+    "b_close": true
+   },
+   {
+    "id": "74z5wixe",
+    "name": "8号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "ixprqdyq",
+    "name": "8号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "evfj567w",
+    "name": "8号场20:30~21:30",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "rule_value": [
+   "周五"
+  ],
+  "items": [
+   {
+    "id": "be0qukhh",
+    "name": "1号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "lrklc7gr",
+    "name": "1号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "d4leptgm",
+    "name": "1号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "su5fusby",
+    "name": "2号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "l0xlk4ej",
+    "name": "2号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "kqik1wd9",
+    "name": "2号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "o1t1q45m",
+    "name": "3号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "7jn95myk",
+    "name": "3号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "xv7vqoq8",
+    "name": "3号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "kuku6hjp",
+    "name": "4号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "otn4001m",
+    "name": "4号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "nj4koosq",
+    "name": "4号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "w4sgjsla",
+    "name": "5号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "w5ou5mpe",
+    "name": "5号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "mls9w4oo",
+    "name": "5号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "hedrdqbg",
+    "name": "6号场18:30~19:30",
+    "count": 0
+   },
+   {
+    "id": "p9l6d50z",
+    "name": "6号场19:30~20:30",
+    "count": 0
+   },
+   {
+    "id": "x6uie2ds",
+    "name": "6号场20:30~21:30",
+    "count": 0
+   },
+   {
+    "id": "u91wjkg2",
+    "name": "7号场18:30~19:30",
+    "count": 0
+   },
+   {
+    "id": "z07k6c4v",
+    "name": "7号场19:30~20:30",
+    "count": 0
+   },
+   {
+    "id": "ngarob2u",
+    "name": "7号场20:30~21:30",
+    "count": 0
+   },
+   {
+    "id": "rluq7c0g",
+    "name": "8号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "redwag1w",
+    "name": "8号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "9ewo7jhe",
+    "name": "8号场20:30~21:30",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "rule_value": [
+   "周六"
+  ],
+  "items": [
+   {
+    "id": "5ly5aitk",
+    "name": "1号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "lehqr4es",
+    "name": "1号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "37y7aznj",
+    "name": "1号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "oz1gj6oq",
+    "name": "2号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "oox7bupg",
+    "name": "2号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "3hyh6hu2",
+    "name": "2号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "b6j76soq",
+    "name": "3号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "w16kx428",
+    "name": "3号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "h8w0kvex",
+    "name": "3号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "tkadlrz9",
+    "name": "4号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "18jmkmpb",
+    "name": "4号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "hsecv5cg",
+    "name": "4号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "tnqoococ",
+    "name": "5号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "0rv2rifn",
+    "name": "5号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "vmlqw5dg",
+    "name": "5号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "s00ykitj",
+    "name": "6号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "0i0bhtkk",
+    "name": "6号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "sv13zs2s",
+    "name": "6号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "4y756c7y",
+    "name": "7号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "l3xslveh",
+    "name": "7号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "0r602h6e",
+    "name": "7号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "t2q9baco",
+    "name": "8号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "p5acayxa",
+    "name": "8号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "zsyc1uq9",
+    "name": "8号场20:30~21:30",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "rule_value": [
+   "周日"
+  ],
+  "items": [
+   {
+    "id": "hpe0d9jl",
+    "name": "1号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "7uw5pptt",
+    "name": "1号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "hx3cx2ek",
+    "name": "1号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "7jv8ap6t",
+    "name": "2号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "7xdrc6tl",
+    "name": "2号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "08etks9p",
+    "name": "2号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "qdo2pg9j",
+    "name": "3号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "ieih7n4h",
+    "name": "3号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "x9ym2gow",
+    "name": "3号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "693e75dh",
+    "name": "4号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "927ci6en",
+    "name": "4号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "e5yb8ssm",
+    "name": "4号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "6krr990i",
+    "name": "5号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "3coifmx8",
+    "name": "5号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "iu4csk4k",
+    "name": "5号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "bjhh7ycf",
+    "name": "6号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "36x1x8jg",
+    "name": "6号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "ckssv41p",
+    "name": "6号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "hoqhw423",
+    "name": "7号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "f8lbs4h2",
+    "name": "7号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "zsh5eea7",
+    "name": "7号场20:30~21:30",
+    "count": 1
+   },
+   {
+    "id": "xtndl0xe",
+    "name": "8号场18:30~19:30",
+    "count": 1
+   },
+   {
+    "id": "2mf57c4s",
+    "name": "8号场19:30~20:30",
+    "count": 1
+   },
+   {
+    "id": "1rnpfag6",
+    "name": "8号场20:30~21:30",
+    "count": 1
+   }
+  ]
+ }
+]
